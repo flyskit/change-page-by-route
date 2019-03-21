@@ -1,10 +1,11 @@
-1.ÏîÄ¿ÔÚ±¾µØÒÑÄÜ³É¹¦ÔËĞĞ
+å·¦ä¾§èœå•æ æ§åˆ¶å³ä¾§é¡µé¢å†…å®¹åˆ‡æ¢
 
-2.Ê¹ÓÃ¹¤¾ß£ºIntelliJ IDEA 2017
+1.ä¸»ä½“ç»“æ„ï¼šjspé¡µé¢ + mainPage.js
 
-3.Éæ¼°¼¼Êõ£ºjQuery + Bootstrap
+2.ä½¿ç”¨å·¥å…·ï¼šIntelliJ IDEA 2017
 
-Ö÷ÒªÑ§Ï°²Î¿¼Á´½Ó£º
-bootstrap ²Î¿¼ÎÄµµ£ºhttps://v3.bootcss.com/components/
-bootstrap Ñ§Ï°½Ì³Ì£ºhttp://www.runoob.com/bootstrap/bootstrap-tutorial.html
-echarts»æÍ¼£¨±¾ÏîÄ¿ÖĞÃ»ÓĞÊµÏÖ¹¦ÄÜ£©£ºhttp://echarts.baidu.com/examples/index.html
+3.æ¶‰åŠæŠ€æœ¯ï¼šjQuery + Bootstrap
+
+ä¸»è¦å­¦ä¹ å‚è€ƒé“¾æ¥ï¼š
+bootstrap å‚è€ƒæ–‡æ¡£ï¼šhttps://v3.bootcss.com/components/
+bootstrap å­¦ä¹ æ•™ç¨‹ï¼šhttp://www.runoob.com/bootstrap/bootstrap-tutorial.html
